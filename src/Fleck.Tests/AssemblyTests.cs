@@ -5,7 +5,7 @@ namespace Fleck.Tests
 {
     [SetUpFixture]
     public class AssemblyTests
-    {
+    
         [SetUp]
         public void SetUp()
         {
